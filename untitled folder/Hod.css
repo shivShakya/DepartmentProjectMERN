@@ -1,0 +1,30 @@
+@media screen and (max-width: 768px) {
+
+    .hod-info{
+        width: 90%;
+        height: 30rem;
+        display: flex;
+        justify-content: center;
+        flex-direction: column;
+    }
+    
+    
+    .hod-1{
+         width: 80%;
+         height: 20rem;
+         margin: 1em;
+         background-color: rgb(57, 118, 78);
+
+    }
+    .hod-2{
+        width: 80%;
+        height: 20rem;
+        margin: 1em;
+        background-color: rgb(39, 87, 128);
+    }
+
+    .box , .box-new{
+          display: none;
+    }
+     
+}
